@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    background-color: black;
+}
+.Sidebar{
+    height: 100vh;
+    width: auto;
+    background-color: rgb(29, 90, 42);
+}
+.photo{
+    width: 20%;
+    height: auto;
+}
